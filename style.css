@@ -3,24 +3,30 @@ font-family: 'Poppins', sans-serif;
 }
 #starting-point{
     font-family: serif;
-    font-size: 33px;
-    line-height: 33px;
-    font-weight: 20px;
-    border-left: 4px solid;
-    border-radius: 3px;
-    border-color: #EF5A50;    
+    font-size: 35px;
+    line-height: 35px;
+    border-left: 4px solid #EF5A50;;
+    border-radius: 3px;    
     padding-left: 11px;
     margin-top: 120px;   
 }
+.h-group-1{
+    font-size: 21px;
+    line-height: 25px
+}
 .p-group-1{
     font-size: 16px;
-    padding-bottom: 10px;
+    padding-bottom: 9px;
     color: #3E3838;
 }
 .p-group-2{
     font-size: 14px;
     color: #3E3838;
     padding-top: 20px;
+}
+.p-group-3{
+    font-size: 14px;
+    color: #3E3838;
 }
 .yellow-group{
     color:   #FEA85c;
@@ -44,3 +50,40 @@ font-family: 'Poppins', sans-serif;
     border-radius: 5px;
     background-image: linear-gradient(#EF5A50, #EF5A50) 
 }
+#my-mission{
+    color: #090A39;
+    font-family: sans-serif;
+    font-weight: 1000;
+    text-align: center;
+    font-size: 36px;
+    padding-top: 35px;
+    margin-bottom: 45px;
+}
+.mission-vission-goals{
+    display: flex;
+    margin-left: 130px;
+    margin-right: 130px;
+}
+.m-v-g-2022{
+    width: 33.4%;
+}
+.m-v-g-2022 img{
+    width: 45%;
+}
+#mission-on{
+    background-color: #E6F9E9;
+    margin-right: 20px;
+    padding: 25px 25px 25px;
+    border-radius: 25px;
+}
+#vission-on{
+    background-color: #FBE3FF;
+    margin-right: 20px;
+    padding: 25px 25px 25px;
+    border-radius: 25px;
+}
+#goals-on{
+        background-color: #FFF4CB;
+        padding: 25px 25px 25px;
+        border-radius: 25px;
+    }
