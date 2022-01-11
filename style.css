@@ -28,6 +28,10 @@ font-family: 'Poppins', sans-serif;
     font-size: 14px;
     color: #3E3838;
 }
+.p-group-4{
+    color: #3E3838;
+    padding-bottom: 8px;
+}
 .yellow-group{
     color:   #FEA85c;
 }
@@ -43,7 +47,7 @@ font-family: 'Poppins', sans-serif;
     width: 100%;
 }
 .link-group{
-    font-size: 14px;
+    font-size: 13px;
     text-decoration: none;
     color: white;
     padding: 10px 30px;
@@ -68,7 +72,7 @@ font-family: 'Poppins', sans-serif;
     width: 33.4%;
 }
 .m-v-g-2022 img{
-    width: 45%;
+    width: 35%;
 }
 #mission-on{
     background-color: #E6F9E9;
@@ -87,3 +91,31 @@ font-family: 'Poppins', sans-serif;
         padding: 25px 25px 25px;
         border-radius: 25px;
     }
+    #develop-limits{
+        display: flex;
+        margin-left: 130px;
+        margin-right: 130px;
+        margin-top: 80px;
+    }
+    #girls-group{
+        width: 50%;
+    }
+    #girls-written{
+        width: 70%;
+        padding-top: 20px;
+    }
+    #girls-group img{
+        width: 85%;
+    }
+    .develop-text{
+        font-size: 30px;
+        font-family: 'Poppins', sans-serif;
+    }
+.link-group-2{
+    font-size: 13px;
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-image: linear-gradient(#EF5A50, #EF5A50)
+}
