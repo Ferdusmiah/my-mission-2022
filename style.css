@@ -102,8 +102,8 @@ body{
         #develop-limits-bg{
             background-image: url('shapes/shape-1.png');
             background-repeat: no-repeat;
-            background-position: 60px 40px;
-            background-size: 180px 180px;
+            background-position:50px 50px;
+            background-size: 190px 190px;
         }    
         #girls-group{
             width: 50%;
@@ -134,7 +134,7 @@ body{
     display: flex;
     margin-left: 130px;
     margin-right: 130px;
-    margin-top: 80px;
+    margin-top: 80px;  
 }
 .mens-written{
     width: 70%;
@@ -142,8 +142,14 @@ body{
 }
 .mens-group{
     width: 50%;
-    padding-left: 120px;
+    padding-left: 130px;
 }
 .mens-group img{
     width: 95%;
+}
+#global-community-bg{
+    background-image: url(shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 165px 165px;
+    background-position: 1000px 150px;
 }
